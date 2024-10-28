@@ -34,7 +34,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 🙌 Support
 
-If you have any questions or encounter any issues, feel free to contact me at [ksawier.malkiewicz@icloud.com](mailto:ksawier.malkiewicz@icloud.com) or open an issue in the Issues tab.
+If you have any questions or encounter any issues, feel free to contact me at [ksawier.helix@gmail.com](mailto:ksawier.helix@gmail.com) or open an issue in the Issues tab.
 
 ## 🙏 Acknowledgments
 
